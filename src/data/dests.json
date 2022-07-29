@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Copenhagen",
+    "address": "Rådhuspladsen 1, 1550 København, Denmark",
+    "imgUrl": "https://thishotel.com/wp-content/uploads/2020/10/copenhagen-areas.jpg",
+    "isActive": false,
+    "population": 3.4,
+    "nbrHotels": 5000,
+    "averageIncome": 70000,
+    "surface": 88.25
+  },
+  {
+    "id": "2",
+    "name": "Tehran", 
+    "address": "Tehran, Azadi Square, Iran",
+    "imgUrl": "https://images.unsplash.com/photo-1570030534989-31a8e6812fc9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnwxMjI0MDYyMnx8ZW58MHx8fHw%3D&w=1000&q=80",
+    "isActive": false,
+    "population": 38.6,
+    "nbrHotels": 400,
+    "averageIncome": 30000,
+    "surface": 730
+  },
+  {
+    "id": "3",
+    "name": "Paris", 
+    "address": "Pl. de l'Hôtel de Ville 75004 Paris",
+    "imgUrl": "https://cdn-goeuro.com/static_content/web/content/pics/paris_street_people.jpg",
+    "isActive": true,
+    "population": 2.1,
+    "nbrHotels": 7500,
+    "averageIncome": 50000,
+    "surface": 105.4
+  },
+  {
+    "id": "4",
+    "name": "London", 
+    "address": "Pl. de l'Hôtel de Ville 75004 Paris",
+    "imgUrl": "https://www.lboro.ac.uk/media/wwwlboroacuk/external/content/mediacentre/pressreleases/2022/05/londontown.jpg",
+    "isActive": true,
+    "population": 8.98,
+    "nbrHotels": 10000,
+    "averageIncome": 90000,
+    "surface": 1572
+  },
+  {
+    "id": "5",
+    "name": "Tokyo", 
+    "address": "4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011, Japan",
+    "imgUrl": "https://itourisme.net/wp-content/uploads/2016/09/visit-tokyo-japan.jpg",
+    "isActive": true,
+    "population": 13.9,
+    "nbrHotels": 7000,
+    "averageIncome": 70000,
+    "surface": 627.6
+  },
+  {
+    "id": "6",
+    "name": "New York", 
+    "address": "New York, NY 10004, United States",
+    "imgUrl": "https://itourisme.net/wp-content/uploads/2016/09/visit-tokyo-japan.jpg",
+    "isActive": false,
+    "population": 8.4,
+    "nbrHotels": 12000,
+    "averageIncome": 100000,
+    "surface": 783.8
+  }
+]
